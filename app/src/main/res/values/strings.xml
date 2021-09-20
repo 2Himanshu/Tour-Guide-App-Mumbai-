@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Travel Guide Mumbai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pav_bhaji">Pav bhaji is a fast food dish from India consisting of a thick vegetable curry served with a soft bread roll</string>
+    <string name="vada_pav">Vada pav, alternatively spelt wada pao, (About this soundlisten) is a vegetarian fast food dish native to the state of Maharashtra.</string>
+    <string name="paani_puri">Panipuri consists of a round or ball-shaped, hollow puri , filled with a mixture of flavored water (known as imli pani)</string>
+    <string name="samosa">A samosa (/səˈmoʊsə/) is a South Asian fried or baked pastry with a savory filling like spiced potatoes</string>
+
+    <string name="shirt">A shirt is a cloth garment for the upper body.</string>
+    <string name="jeans">Jeans are a type of pants or trousers, typically made from denim or dungaree cloth.</string>
+    <string name="shoes">A shoe is an item of footwear intended to protect and comfort the human foot.</string>
+    <string name="necklace">A necklace is an article of jewellery that is worn around the neck.</string>
+
+    <string name="growels">Growel\'s 101 is a 7.5 lakh sq ft shopping mall in Kandivali, Mumbai.</string>
+    <string name="inorbit">Inorbit Mall is a subsidiary of the Evo enterprises</string>
+    <string name="phoneix">Phoenix Marketcity is the largest shopping mall in India.</string>
+    <string name="oberoi">Oberoi Mall is a well-known and highly loved mall in the suburbs of Mumbai.</string>
+
+    <string name="gateway_of_india">The Gateway of India is an arch monument built during the 20th century in Bombay, India. </string>
+    <string name="marine_drive">Marine Drive is a 3.6-kilometre-long Promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India.</string>
+    <string name="national_park">Sanjay Gandhi National Park is a 87 km2 (34 sq mi) protected area in Mumbai.</string>
+    <string name="CST">The terminus was designed by British born architectural engineer Frederick William Stevens from an initial design by Axel Haig</string>
+
+    <string name="vada_paav_text">Vada Pav</string>
+    <string name="paav_bhaji_text">Paav Bhaji</string>
+    <string name="paani_puri_text">Paani Puri</string>
+    <string name="samosa_text">Samosa</string>
+
+
+    <string name="shirt_text">Shirt</string>
+    <string name="shoes_text">Shoes</string>
+    <string name="jeans_text">Jeans</string>
+    <string name="necklace_text">Necklace</string>
+
+
+    <string name="growels_text">Growels</string>
+    <string name="inorbit_text">Inorbit</string>
+    <string name="phoneix_text">Phoneix</string>
+    <string name="oberoi_text">Oberoi</string>
+
+    <string name="gateway_text">Gateway Of India</string>
+    <string name="marine_drive_text">Marine Drive</string>
+    <string name="natinal_park_text">National Park</string>
+    <string name="CST_text">CST</string>
+
+    <string name="famous_food_title">Famous Food</string>
+    <string name="shopping_center">Shopping Center</string>
+    <string name="tourist_attraction">Tourist Attraction</string>
+    <string name="must_buy">Must Buy</string>
+
+</resources>
